@@ -15,7 +15,7 @@ token = $FBTOKEN
 
 #526198397783808
 
-# Though commenting and liking to the post in user timeline is prohibited currently
+# Though commenting and liking to the feed in user timeline is prohibited currently
 # One can automate the like and comment to a post in any FB page via page access token
 def posting_to_fb(feed_id=None,message=None):
     """
