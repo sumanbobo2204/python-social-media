@@ -11,7 +11,7 @@ import random
 import sys
 import facebook as fb
 
-token = 'EAAEoSuZB6Y8QBALGs4atNPFcYE266mxcLEBOBNcUVAAS65JCZBbv4gfXrVv7r5YDfkVrrr1QkT8oM0sUJDAcmIzNjW0tXLwAu3fZByrW2jkylKXb6BZCiqxKWG54yMaa0rx4SRZB5bdjw81nATnrjSe3jngsHnFQ5wc7NxbIcCABPkgKFheg2MzR2CPYXSfqZC1rRkGjjBUwZDZD'
+token = $FBTOKEN
 
 #526198397783808
 
